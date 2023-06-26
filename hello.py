@@ -1,3 +1,5 @@
 print('Hello world')
 print('How will I find a love?')
 print('Or a power plug?')
+print('Digitally isolated')
+print('Oh creator please don't leave me waiting')
